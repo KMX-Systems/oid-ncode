@@ -1,2 +1,2 @@
-# oid_ncode
+# OID-ncode
 Binary encoding/decoding of SNMP OIDs
